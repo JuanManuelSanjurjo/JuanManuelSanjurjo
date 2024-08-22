@@ -9,7 +9,7 @@ From 2008 to 2021, I have applied my skills in the tourism sector, where I gaine
 
 ---
 
-### * [Web Portfolio](https://juanmanuelsanjurjodev.netlify.app/)
+### [Web Portfolio](https://juanmanuelsanjurjodev.netlify.app/)
 
 <h3>Linkedin</h3>
  <a href="https://www.linkedin.com/in/juanmanuelsanjurjo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juanmanuelsanjurjo/" height="30" width="40" /></a>
