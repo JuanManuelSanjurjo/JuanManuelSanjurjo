@@ -19,9 +19,9 @@ From 2008 to 2021, I have applied my skills in the tourism sector, where I gaine
 
 ### Tools and Languages
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,nextjs,astro)](https://skillicons.dev)
-
+---
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,sqlite,mongodb,java,php,py,c)](https://skillicons.dev)
-
+---
 [![My Skills](https://skillicons.dev/icons?i=vite,linux,git,postman,jest,vitest,cypress,figma,docker,vscode,vim,neovim)](https://skillicons.dev)
-
+---
 
