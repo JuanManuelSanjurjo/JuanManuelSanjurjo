@@ -2,10 +2,9 @@
 <h3>Argentinean developer passionate about technology</h3>
 
 ### Profesional Profile
-I am a software developer with a passion for technology and a constant dedication to learning. I am looking for opportunities in the IT sector where I can apply and expand my technical and problem solving skills in a dynamic and collaborative work environment.
-
-### Previous Experience 
-From 2008 to 2021, I have applied my skills in the tourism sector, where I gained valuable professional and academic knowledge. My experience in the tourism sector has provided me with a solid foundation in project management, teamwork and adaptability, skills that I consider crucial in the technology field.
+I am a developer with a passion for technology. I am constantly learning and embrace every opportunity for growth
+and self improvement. From 2008 to 2021, I applied my skills in the tourism sector which has given me a solid
+foundation in teamwork and adaptability, skills that I consider essential in any collaborative environment.
 
 ---
 
